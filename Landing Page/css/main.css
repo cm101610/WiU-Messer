@@ -2,8 +2,8 @@
 /*-------------------------------------------  general -------------------------------------------------------*/
 body{
 	font-size: 80%;
-	font-family: helvetica, arial, sans-serif;
-	color:#545257; /*changes color of the whole text*/
+	font-family: Bodoni, Futura, sans-serif;
+	color:#3E3931; /*changes color of the whole text*/
 	margin-top: 0;
 }
 #wrapper{
@@ -16,6 +16,11 @@ body{
 	box-shadow:         2px 2px 8px #85C0A4;
 
 }
+
+p.description{
+	color: #3E3931;
+	font-style: italic;
+}
 /*-------------------------------------------  header -------------------------------------------------------*/
 
 header{
@@ -24,6 +29,7 @@ header{
 h1{
 	margin-top: 0;
 	padding-top: 10px;
+	color: #3E3931;
 }
 h2{
 	margin-top: 20px;
