@@ -74,7 +74,7 @@ td:first-child{
 .main p{
 	width: 67.5%;
 	float: left;
-	font-size: 1.4em;
+	font-size: 2.0em;
 	color: #3E3931;
 
 }
@@ -96,8 +96,8 @@ figure img{
 /*-------------------------------------------  links -------------------------------------------------------*/
 a{
 	text-decoration: none;
-	font-size: 1.3em;
-	color: #475a80;  /*changes color of the links*/
+	font-size: 2.0em;
+	color: #507075;  /*changes color of the links*/
 }
 a:hover{
 	text-decoration: underline;
