@@ -16,11 +16,6 @@ body{
 	box-shadow:         2px 2px 8px #85C0A4;
 
 }
-
-p.description{
-	color: #3E3931;
-	font-style: italic;
-}
 /*-------------------------------------------  header -------------------------------------------------------*/
 
 header{
@@ -67,7 +62,6 @@ td:first-child{
 }
 /*-------------------------------------------  top section-------------------------------------------------------*/
 .main{
-
 	overflow: auto;
 	/*border-bottom: 1px solid #bbb8bf;*/
 }
@@ -76,23 +70,23 @@ td:first-child{
 	float: left;
 	font-size: 1.4em;
 	color: #3E3931;
-
+	font-style: italic;
 }
+
 .main figure{
 	float: right;
 	margin: 15px 0 20px 0;
 	width: 30%;
-
 }
+
 figure img{
 	width: 100%;
 }
+
 .sec{
 	clear: both;
 	margin-top: 40px;
-	
 }
-
 /*-------------------------------------------  links -------------------------------------------------------*/
 a{
 	text-decoration: none;
