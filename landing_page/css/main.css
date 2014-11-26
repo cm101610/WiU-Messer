@@ -75,12 +75,13 @@ td:first-child{
 
 .main figure{
 	float: right;
-	margin: 15px 0 20px 0;
+	margin: 15px 15px 20px 0;
 	width: 30%;
 }
 
 figure img{
 	width: 100%;
+	border: 5px double #61B2E9;
 }
 
 .sec{
