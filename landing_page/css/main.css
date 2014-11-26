@@ -25,9 +25,15 @@ h1{
 	margin-top: 0;
 	padding-top: 10px;
 	color: #3E3931;
+	text-shadow: .5px .5px 2px #61B2E9;
+	text-align: center;
+	font-size: 4.0em;
+	text-transform: uppercase;
+	
 }
 h2{
 	margin-top: 20px;
+	text-shadow: .5px .5px 2px #61B2E9;
 }
 /*-------------------------------------------  table -------------------------------------------------------*/
 table{
@@ -38,6 +44,8 @@ table{
 tr{
 	display: table-row;
 	border-color: inherit;
+	text-shadow: .5px .5px 2px #61B2E9;
+	
 }
 .odd{
 	background: #85C0A4; /*changes color of the stripes table*/
@@ -71,6 +79,7 @@ td:first-child{
 	font-size: 1.4em;
 	color: #3E3931;
 	font-style: italic;
+	text-shadow: .5px .5px 2px #61B2E9;
 }
 
 .main figure{
@@ -81,7 +90,8 @@ td:first-child{
 
 figure img{
 	width: 100%;
-	border: 5px double #61B2E9;
+	border: 2px solid #61B2E9;
+	box-shadow: 2px 2px 8px #61B2E9;
 }
 
 .sec{
@@ -104,6 +114,8 @@ footer{
 	padding-bottom: 20px;
 	text-align: center;
 	width: 90%;
+	color:#3E3931;
+	text-shadow: .5px .5px 2px #61B2E9;
 }
 /* ------------------------------------------- Media Queries -------------------------------------------------------*/
 
